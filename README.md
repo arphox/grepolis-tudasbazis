@@ -1,1 +1,1 @@
-# AGT - Arphox Grepolis Tudásbázis
+# AGT - Arphox Grepolis Tudásbázisa
