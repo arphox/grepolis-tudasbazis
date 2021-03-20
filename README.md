@@ -1,2 +1,1 @@
-# grepolis-tudasbazis
-Grepolis tudásbázis
+# Arphox Grepolis Tudásbázis
