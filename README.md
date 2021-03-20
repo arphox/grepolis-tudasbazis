@@ -1,0 +1,2 @@
+# grepolis-tudasbazis
+Grepolis tudásbázis
